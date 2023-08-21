@@ -8,6 +8,6 @@ function saudacao(nome: string): string {
 
 const resultadoMultiplicacao = multiplicacao(5, 3);
 console.log(`Resultado da multiplicação: ${resultadoMultiplicacao}`);
-
+git remote add origin
 const saudacaoFinal = saudacao("Alice");
 console.log(saudacaoFinal);
